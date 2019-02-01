@@ -1,0 +1,9 @@
+video{
+    width:200px;
+    height: 100px;
+}
+
+table,th,tr,td
+{
+    border: 3px solid black;
+}
